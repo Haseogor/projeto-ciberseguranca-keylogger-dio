@@ -6,18 +6,18 @@ Relatório prático sobre simulação de malwares em ambiente controlado utiliza
 
 ## 🎯 Objetivos
 
-Implementar um ransomware simulado que criptografa e descriptografa arquivos, gerando mensagem de resgate
-Desenvolver um keylogger que captura teclas, salva logs e envia automaticamente por e-mail
-Documentar procedimentos e resultados dos testes
-Propor medidas de mitigação contra malwares como ransomware e keyloggers.
+-Implementar um ransomware simulado que criptografa e descriptografa arquivos, gerando mensagem de resgate
+-Desenvolver um keylogger que captura teclas, salva logs e envia automaticamente por e-mail
+-Documentar procedimentos e resultados dos testes
+-Propor medidas de mitigação contra malwares como ransomware e keyloggers.
 
 ## 🛠️ Tecnologias Utilizadas
 
-Python - Linguagem principal para scripts
-Bibliotecas Python - cryptography (para criptografia Fernet), pynput (para captura de teclas), smtplib (para envio de e-mails)
-VS Code - Editor de código e ambiente de desenvolvimento
-Gmail - Serviço para teste de envio de e-mails (com app password)
-Ambiente Local - Pastas isoladas para arquivos de teste (sem impacto real no sistema).
+-**Python** - Linguagem principal para scripts
+-**Bibliotecas** Python - cryptography (para criptografia Fernet), pynput (para captura de teclas), smtplib (para envio de e-mails)
+-**VS Code** - Editor de código e ambiente de desenvolvimento
+-**Gmail** - Serviço para teste de envio de e-mails (com app password)
+-**Ambiente Local** - Pastas isoladas para arquivos de teste (sem impacto real no sistema).
 
 ## 📊 Resultados
 
