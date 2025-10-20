@@ -17,18 +17,31 @@ Gmail - Serviço para teste de envio de e-mails (com app password)
 Ambiente Local - Pastas isoladas para arquivos de teste (sem impacto real no sistema)
 
 📊 Resultados
+
 ✅ Arquivos de teste criptografados e restaurados com sucesso
+
 ✅ Teclas capturadas e salvas em logs locais
+
 ✅ Logs enviados periodicamente por e-mail, simulando exfiltração
+
 ✅ Demonstração da simplicidade e periculosidade de malwares em Python
+
 ✅ Chave de criptografia gerada e mensagem de resgate criada
+
 🛡️ Medidas de Mitigação
+
 🔒 Utilizar antivírus com detecção comportamental (ex: Windows Defender)
+
 ⚠️ Habilitar firewalls e sandboxing para isolar execuções suspeitas
+
 🔐 Realizar backups regulares em mídias offline
+
 📊 Monitorar processos e logs do sistema
+
 🌐 Promover conscientização: Evitar anexos desconhecidos e usar MFA
+
 ⚡ Comandos Principais
+
 # Instalar bibliotecas necessárias (uma vez)
 pip install cryptography pynput
 
